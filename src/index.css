@@ -9,7 +9,7 @@ body {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 1rem;
   max-width: 1300px;
-  margin: auto; 
+  margin: auto;
 }
 
 /* Media query for phone and tablets */
@@ -18,7 +18,7 @@ body {
 @media screen and (max-width: 940px) {
   .album-card {
     display: flex;
-    flex-wrap: wrap; 
-    justify-content: center; 
+    flex-wrap: wrap;
+    justify-content: center;
   }
 }
